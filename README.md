@@ -56,30 +56,37 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://media.licdn.com/dms/image/v2/D4E03AQGme9hJhmNTdA/profile-displayphoto-shrink_800_800/B4EZdIhOmMHQAc-/0/1749268362553?e=1761177600&v=beta&t=wygGNtfQ0JN8Z4uqH0avYjiBAr8ZWjuoZObMqL5x73U" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Thauã Cerqueira</b>
-        </sub>
+        <img src="https://media.licdn.com/dms/image/v2/D4E03AQGme9hJhmNTdA/profile-displayphoto-shrink_800_800/B4EZdIhOmMHQAc-/0/1749268362553?e=1761177600&v=beta&t=wygGNtfQ0JN8Z4uqH0avYjiBAr8ZWjuoZObMqL5x73U"
+             width="120"
+             height="120"
+             style="object-fit: cover; border-radius: 50%;"
+             alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub><b>Thauã Cerqueira</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://media.licdn.com/dms/image/v2/D4E35AQEhogG7w2pamQ/profile-framedphoto-shrink_400_400/B4EZfF8FXXHgAc-/0/1751372551990?e=1758999600&v=beta&t=f5gbSU4ILvcOiJHVOjmv7T_8udFllD6FE-gai-vuWPE"/><br>
-        <sub>
-          <b>Felipe Dario</b>
-        </sub>
+        <img src="https://media.licdn.com/dms/image/v2/D4E35AQEhogG7w2pamQ/profile-framedphoto-shrink_400_400/B4EZfF8FXXHgAc-/0/1751372551990?e=1758999600&v=beta&t=f5gbSU4ILvcOiJHVOjmv7T_8udFllD6FE-gai-vuWPE"
+             width="120"
+             height="120"
+             style="object-fit: cover; border-radius: 50%;"
+             alt="Foto do Felipe Dario"/><br>
+        <sub><b>Felipe Dario</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
-        </sub>
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg"
+             width="120"
+             height="120"
+             style="object-fit: cover; border-radius: 50%;"
+             alt="Foto do Steve Jobs"/><br>
+        <sub><b>Steve Jobs</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ## 📝 Licença
