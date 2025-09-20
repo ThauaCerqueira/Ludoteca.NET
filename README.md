@@ -56,7 +56,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://media.licdn.com/dms/image/v2/D4E03AQGme9hJhmNTdA/profile-displayphoto-shrink_800_800/B4EZdIhOmMHQAc-/0/1749268362553?e=1761177600&v=beta&t=wygGNtfQ0JN8Z4uqH0avYjiBAr8ZWjuoZObMqL5x73U" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://media.licdn.com/dms/image/v2/D4E03AQGme9hJhmNTdA/profile-displayphoto-shrink_400_400/B4EZdIhOmMHQAc-/0/1749268362553?e=1761177600&v=beta&t=wygGNtfQ0JN8Z4uqH0avYjiBAr8ZWjuoZObMqL5x73U" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Iuri Silva</b>
         </sub>
