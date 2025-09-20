@@ -56,9 +56,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://media.licdn.com/dms/image/v2/D4E03AQGme9hJhmNTdA/profile-displayphoto-shrink_400_400/B4EZdIhOmMHQAc-/0/1749268362553?e=1761177600&v=beta&t=wygGNtfQ0JN8Z4uqH0avYjiBAr8ZWjuoZObMqL5x73U" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://media.licdn.com/dms/image/v2/D4E03AQGme9hJhmNTdA/profile-displayphoto-shrink_800_800/B4EZdIhOmMHQAc-/0/1749268362553?e=1761177600&v=beta&t=wygGNtfQ0JN8Z4uqH0avYjiBAr8ZWjuoZObMqL5x73U" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Thauã Cerqueira</b>
         </sub>
       </a>
     </td>
@@ -66,7 +66,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#" title="defina o título do link">
         <img src="https://media.licdn.com/dms/image/v2/D4E35AQEhogG7w2pamQ/profile-framedphoto-shrink_400_400/B4EZfF8FXXHgAc-/0/1751372551990?e=1758999600&v=beta&t=f5gbSU4ILvcOiJHVOjmv7T_8udFllD6FE-gai-vuWPE"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Felipe Dario</b>
         </sub>
       </a>
     </td>
