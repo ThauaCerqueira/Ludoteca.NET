@@ -66,7 +66,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://media.licdn.com/dms/image/v2/D4E35AQEhogG7w2pamQ/profile-framedphoto-shrink_400_400/B4EZfF8FXXHgAc-/0/1751372551990?e=1758999600&v=beta&t=f5gbSU4ILvcOiJHVOjmv7T_8udFllD6FE-gai-vuWPE"
+        <img src="https://media.licdn.com/dms/image/v2/D4E03AQHhwnOszMKJzw/profile-displayphoto-crop_800_800/B4EZfF8EePHYAY-/0/1751372550013?e=1761177600&v=beta&t=NYtgEssvEol0QJsbGWG_BnmOX3D3eOH5KIb4M1nLmJ8"
              width="120"
              height="120"
              style="object-fit: cover; border-radius: 50%;"
