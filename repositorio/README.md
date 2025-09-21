@@ -37,7 +37,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o <ludoteca_net>, siga estas etapas: 
 
-Linux e macOS:
 Abra o navegador e pesquise por Visual Studio 2022 download.
 
 <comando_de_instalação>
