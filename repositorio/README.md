@@ -98,6 +98,14 @@ Erick Lopes dos Santos Carvalho - 06010632
         <sub><b>Ian Carlos</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src=""
+             width="120"
+             height="120"
+             style="object-fit: cover; border-radius: 50%;"
+             alt="Foto do Erick Lopes"/><br>
+        <sub><b>Erick Lopes</b></sub>
   </tr>
 </table>
 
