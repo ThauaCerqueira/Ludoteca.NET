@@ -64,6 +64,8 @@ Na terceira imagem está devolvendo o jogo, pedindo o nome do cliente e exibindo
 Listar Jogo:
 Na quarta imagem ele lista o jogos e fala os status dos jogos, se estão alugados ou disponíveis.
 
+<img width="300" height="232" alt="Image" src="https://github.com/user-attachments/assets/192b98d9-f982-4696-b366-5b1f52b56814" />
+
 
 ## 📝 Convenções de Marcação <ludoteca_net>
 
