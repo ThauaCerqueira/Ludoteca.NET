@@ -90,11 +90,11 @@ Erick Lopes dos Santos Carvalho - 06010632
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg"
+        <img src="[https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg](https://web.whatsapp.com/77463cdc-97b9-48f5-a2d7-e172f42299f4)"
              width="120"
              height="120"
              style="object-fit: cover; border-radius: 50%;"
-             alt="Foto do Steve Jobs"/><br>
+             alt="Foto do Ian Carlos"/><br>
         <sub><b>Steve Jobs</b></sub>
       </a>
     </td>
