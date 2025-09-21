@@ -30,7 +30,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente de `<c#.net 9 / um aplicativo de console / json>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. É compatível com todos os sistemas operacionais, porém é necessário que voce possua o Visual Studio 2022.
+- Você tem uma máquina `<Windows>`. É compatível com todos os sistemas operacionais, porém é necessário que voce possua o Visual Studio 2022.
 - Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
 ## 🚀 Instalando <ludoteca_net>
@@ -103,7 +103,3 @@ Erick Lopes dos Santos Carvalho - 06010632
 </table>
 
 
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para
