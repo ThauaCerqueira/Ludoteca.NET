@@ -95,7 +95,7 @@ Erick Lopes dos Santos Carvalho - 06010632
              height="120"
              style="object-fit: cover; border-radius: 50%;"
              alt="Foto do Ian Carlos"/><br>
-        <sub><b>Steve Jobs</b></sub>
+        <sub><b>Ian Carlos</b></sub>
       </a>
     </td>
   </tr>
