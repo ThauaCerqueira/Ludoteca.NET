@@ -52,8 +52,8 @@ Abra o navegador e pesquise por Visual Studio 2022 download.
 Cadastrar Jogo:
 Na primeira imagem está cadastrando um jogo, onde pede o nome do jogo e o valor.
 
-Emprestar Jogo:
-Na segunda imagem está emprestando o jogo, onde pede o nome do cliente, listando os jogos que estão a disposição, pedindo o nome do jogo para ser alugado.
+Cadastrar Membro:
+Na segunda imagem está cadastrando um cliente, onde pede o nome do cliente e salvando.
 
 Devolver Jogo:
 Na terceira imagem está devolvendo o jogo, pedindo o nome do cliente e exibindo o nome do jogo que o cliente pegou, se tiver pego mais de 1 jogo, irá exibir uma lista dos jogos.
