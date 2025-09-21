@@ -48,9 +48,22 @@ Abra o navegador e pesquise por Visual Studio 2022 download.
 4-Em seguida clique no botão ''Instalar''
 
 
-## ☕ Usando <ludoteca_net>
+## ☕ Evidencias <ludoteca_net>
+Cadastrar Jogo:
+Na primeira imagem está cadastrando um jogo, onde pede o nome do jogo e o valor.
 
-Para usar <ludoteca_net>, siga estas etapas:
+Emprestar Jogo:
+Na segunda imagem está emprestando o jogo, onde pede o nome do cliente, listando os jogos que estão a disposição, pedindo o nome do jogo para ser alugado.
+
+Devolver Jogo:
+Na terceira imagem está devolvendo o jogo, pedindo o nome do cliente e exibindo o nome do jogo que o cliente pegou, se tiver pego mais de 1 jogo, irá exibir uma lista dos jogos.
+
+Listar Jogo:
+Na quarta imagem ele lista o jogos e fala os status dos jogos, se estão alugados ou disponíveis.
+
+
+
+
 
 ```
 <exemplo_de_uso>
