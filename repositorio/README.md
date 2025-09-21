@@ -68,7 +68,7 @@ Para usar <ludoteca_net>, siga estas etapas:
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 Felipe Dario da Silva - 06009691 //
 Thauã Cerqueira Silva Rezende - 06010400 //
-Ian Carlos - 06012992 //
+Ian Carlos de Oliveira Leite - 06012992 //
 Erick Lopes dos Santos Carvalho - 06010632
 
 <table>
