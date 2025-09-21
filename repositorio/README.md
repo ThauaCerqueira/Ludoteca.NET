@@ -69,12 +69,21 @@ Na quarta imagem ele lista o jogos e fala os status dos jogos, se estão alugado
 
 
 ## 📝 Convenções de Marcação <ludoteca_net>
+BibliotecaJogos: primeiro comentario linha; 11 finalizando na 17, 20 terminando na 21, 32, 36, 40 ate 41, 50, 53, 58, 59, 63, 67, 71, 72, 75, 79, 81 ate o 84, 91 ate 94, 102.
 
+Emprestimo: Primeiro comentario na linha; 8 ate a 11, 14, 17, 18, 22, 32, 33, 36 ate a 41, 52 ate 54, 57, 62, 70, 71, 84, 89, 95, 99 ate a 103, 115 ate 117, 120, 122, 123, 130, 136, 137, 149, 154, 158 ate a 161.
 
-```
-<exemplo_de_uso>
-```
+Jogo: Primeiro comentario na linha; 5 e 7.
 
+ListaJogosAlugados: Primeiro comentario na linha; 7 e 9.
+
+Membro: Primeiro comentario na linha; 7, 9, 11, 18, 21, 22, 28, 31, 33, 41, 46.
+
+MenuConsole: Primeiro comentario na linha; 7, 8, 17, 20, 21, 27, 28, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 52, 55, 61, 64.
+
+Utilitarios: Primeiro comentario na linha; 5, 11, 17, 26, 32, 33, 43.
+
+Validações: Primerio comentario na linha; 8, 14, 19, 37, 41, 66, 71.
 
 ## 🤝 Colaboradores
 
