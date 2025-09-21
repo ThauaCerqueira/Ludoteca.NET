@@ -5,7 +5,7 @@ Link do vídeo
 > Um código que simula uma biblioteca de jogos, permitindo ao usuário alguns comandos entre eles: cadastrar o jogo, emprestar, listar, etc.
 ### Encapsulamento e Validações
 Jogo 
-Construtor: inicia na linha 11 e termina na linha 14 
+Construtor: inicia na linha 10 e termina na linha 13 
 Propriedade: inicia na linha 6 e termina na linha 9
 
 Membro
