@@ -59,6 +59,8 @@ Na segunda imagem está cadastrando um cliente, onde pede o nome do cliente e sa
 Devolver Jogo:
 Na terceira imagem está devolvendo o jogo, pedindo o nome do cliente e exibindo o nome do jogo que o cliente pegou, se tiver pego mais de 1 jogo, irá exibir uma lista dos jogos.
 
+<img width="300" height="273" alt="Image" src="https://github.com/user-attachments/assets/b22d7fd1-f99d-4629-b1f5-2f12b7196b95" />
+
 Listar Jogo:
 Na quarta imagem ele lista o jogos e fala os status dos jogos, se estão alugados ou disponíveis.
 
