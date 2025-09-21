@@ -12,34 +12,9 @@ Membro
 Construtor: inicia na linha 13 e termina na linha 16
 Propriedade: inicia na linha 9 e termina na linha 11
 
-Emprestimo
-Construtor não existe
-Propriedade não existe
-
-BibliotecaJogos
-Construtor não existe
-Propriedade não existe
-
-MenuConsole
-Construtor não existe
-Propriedade não existe
-
-Validacoes
-Construtor não existe
-Propriedade não existe
-
-Utilitarios
-Construtor não existe
-Propriedade não existe
-
 ListaJogoAlugados
 Construtor: inicia na linha 5 e termina na linha 7
 Propriedade: inicia na linha 8 e termina na linha 13
-
-Program
-Construtor não existe
-Propriedade não existe
-
 
 ### Atualizações
 
