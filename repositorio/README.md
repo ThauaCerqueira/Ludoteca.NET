@@ -91,8 +91,8 @@ Erick Lopes dos Santos Carvalho - 06010632
     <td align="center">
       <a href="#" title="defina o título do link">
         <img src="https://cdn.discordapp.com/attachments/1419350675640418435/1419383160164057139/77463cdc-97b9-48f5-a2d7-e172f42299f4.jpg?ex=68d18f14&is=68d03d94&hm=92569de8ef5c4803e1cbad6d55c89ce6f03f16e0670c8e08c0a2e18ad588e440&"
-             width="120"
-             height="120"
+             width="130"
+             height="130"
              style="object-fit: cover; border-radius: 50%;"
              alt="Foto do Ian Carlos"/><br>
         <sub><b>Ian Carlos</b></sub>
