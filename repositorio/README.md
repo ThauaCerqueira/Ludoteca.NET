@@ -54,6 +54,7 @@ Na primeira imagem está cadastrando um jogo, onde pede o nome do jogo e o valor
 
 Cadastrar Membro:
 Na segunda imagem está cadastrando um cliente, onde pede o nome do cliente e salvando.
+<img width="300" height="262" alt="Image" src="https://github.com/user-attachments/assets/7cd12672-bf26-4288-8265-f7d192e574eb" />
 
 Devolver Jogo:
 Na terceira imagem está devolvendo o jogo, pedindo o nome do cliente e exibindo o nome do jogo que o cliente pegou, se tiver pego mais de 1 jogo, irá exibir uma lista dos jogos.
