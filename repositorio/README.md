@@ -51,6 +51,7 @@ Abra o navegador e pesquise por Visual Studio 2022 download.
 ## ☕ Evidencias <ludoteca_net>
 Cadastrar Jogo:
 Na primeira imagem está cadastrando um jogo, onde pede o nome do jogo e o valor.
+<img width="300" height="279" alt="Image" src="https://github.com/user-attachments/assets/94b9fee5-fb3d-4edd-9f1e-6a0db0142039" />
 
 Cadastrar Membro:
 Na segunda imagem está cadastrando um cliente, onde pede o nome do cliente e salvando.
