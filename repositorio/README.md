@@ -5,12 +5,12 @@ Link do vídeo
 > Um código que simula uma biblioteca de jogos, permitindo ao usuário alguns comandos entre eles: cadastrar o jogo, emprestar, listar, etc.
 ### Encapsulamento e Validações
 Jogo 
-Construtor inicia na linha 11 e termina na linha 14 
-Propriedade inicia na linha 6 e termina na linha 9
+Construtor: inicia na linha 11 e termina na linha 14 
+Propriedade: inicia na linha 6 e termina na linha 9
 
 Membro
-Construtor inicia na linha 13 e termina na linha 16
-Propriedade inicia na linha 9 e termina na linha 11
+Construtor: inicia na linha 13 e termina na linha 16
+Propriedade: inicia na linha 9 e termina na linha 11
 
 Emprestimo
 Construtor não existe
@@ -33,8 +33,8 @@ Construtor não existe
 Propriedade não existe
 
 ListaJogoAlugados
-Construtor inicia na linha 5 e termina na linha 7
-Propriedade inicia na linha 8 e termina na linha 13
+Construtor: inicia na linha 5 e termina na linha 7
+Propriedade: inicia na linha 8 e termina na linha 13
 
 Program
 Construtor não existe
