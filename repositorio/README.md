@@ -113,7 +113,7 @@ Erick Lopes dos Santos Carvalho - 06010632
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://media.licdn.com/dms/image/v2/D4E03AQHhwnOszMKJzw/profile-displayphoto-crop_800_800/B4EZfF8EePHYAY-/0/1751372550013?e=1761177600&v=beta&t=NYtgEssvEol0QJsbGWG_BnmOX3D3eOH5KIb4M1nLmJ8"
+        <img src="https://media.discordapp.net/attachments/1419350675640418435/1419421349130276955/411fde07-dba2-407b-a4e2-958fae4e6a3e.jpg?ex=68d1b2a5&is=68d06125&hm=982eeaa2565b4fbac5616d788f0d5414b0a670686eef62386505e1fe46c686ff&=&format=webp&width=642&height=856"
              width="120"
              height="120"
              style="object-fit: cover; border-radius: 50%;"
